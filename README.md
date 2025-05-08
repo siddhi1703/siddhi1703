@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there, I'm Siddhi Sandip Kakani ✨</h1>
+<h1 align="center"> Hi there, I'm Siddhi Kakani</h1>
 
 <p align="center">
   🎓 Final Year B.E. in Artificial Intelligence and Data Science <br>
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently Building: **Crater & Boulder Detection System using YOLOv8 + SAM**
+- 🔭 Currently Building: **Crater & Boulder Detection System using YOLOv11 + SAM**
 - 📚 Researching: **T5-based Text Summarization for Scientific Papers**
 - ⚙️ Tools I Use: Python, PyTorch, TensorFlow, AWS, Power BI, OpenCV
 - 📬 How to Reach Me: [siddhikakani4@gmail.com](mailto:siddhikakani4@gmail.com)
