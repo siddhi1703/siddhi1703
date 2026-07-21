@@ -1,89 +1,52 @@
-<h1 align="center">Hi there, I'm Siddhi Kakani 👋</h1>
+<div align="center">
 
-<p align="center">
-  🎓 Final Year B.E. in Artificial Intelligence and Data Science<br>
-  💡 Passionate about Deep Learning, NLP, and Data Analytics<br>
-  🌍 On a mission to innovate with AI and research-driven projects
-</p>
+# Siddhi Kakani
 
----
+### AI Researcher & Engineer | NLP, RAG, Computer Vision
 
-### 🌟 About Me
+M.S. in Artificial Intelligence at Northeastern University (4.0/4.0)  
+Research Assistant at the AIMES Lab, building responsible AI tools for journalism
 
-- 🔭 Currently Building: **Crater & Boulder Detection System using YOLOv8 + SAM**
-- 📚 Researching: **T5-based Text Summarization for Scientific Papers**
-- ⚙️ Tools I Use: Python, PyTorch, TensorFlow, AWS, Power BI, OpenCV
-- 📬 How to Reach Me: [siddhikakani4@gmail.com](mailto:siddhikakani4@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/siddhi-kakani-133124288/) · [Email](mailto:siddhikakani4@gmail.com) · [GitHub](https://github.com/siddhi1703)
 
----
+</div>
 
-### 🛠️ Languages and Tools
+## About me
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+I build end-to-end AI systems that move from research ideas to testable applications. My current interests include evidence-grounded LLM systems, retrieval-augmented generation, natural language processing, and computer vision.
 
-  <!-- Libraries & Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
+- Researching AI for hyperlocal news and responsible newsroom applications at Northeastern University's AIMES Lab
+- Experienced across model development, evaluation, APIs, full-stack interfaces, and containerized deployment
+- Previously delivered hands-on AI training to 60+ international students and guided 15+ applied AI projects
+- Interested in AI/ML engineering and research opportunities where trustworthy systems and measurable outcomes matter
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django"/>
+## Featured projects
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
+| Project | What I built | Evidence |
+| --- | --- | --- |
+| [ProofPilot](https://github.com/siddhi1703/proofpilot) | Full-stack evidence audit platform using React, TypeScript, FastAPI, Qwen, RAG, reranking, citation verification, and Docker | 100% verdict accuracy and 100% Recall@4 on a transparent 12-claim benchmark |
+| [Lunar Crater & Boulder Detection](https://github.com/siddhi1703/Automatic-Detection-craters-and-boulders-using-deep-learning) | Computer-vision pipeline using YOLOv11 and SAM on Chandrayaan-2 OHRC imagery | 96% detection accuracy, 1st place in a state-level competition, and a published research paper |
+| [Brain Tumor Classification](https://github.com/siddhi1703/Brain_Tumor_Classification) | CNN-based MRI image classification workflow with preprocessing, training, and evaluation | 99.42% classification accuracy |
 
-  <!-- DevOps & Cloud -->
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+## Selected AI work
 
+- **AI Meeting Notes Generator:** Combined Whisper ASR with BART-samsum and FLAN-T5 to summarize video, audio, and text meetings. Fine-tuned BART-samsum to reach **79.05% ROUGE-1 recall**, outperforming the FLAN-T5 baseline by **7.83 percentage points**.
+- **AI Education:** Designed workshops and mentoring sessions that improved student project completion by **40%**.
+- **Data Analytics at EY:** Analyzed **100K+ records**, built **5+ Power BI dashboards**, and developed ETL validation workflows with **99% data accuracy**.
 
-</p>
+## Technical toolkit
 
----
+- **AI/ML:** PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers, OpenCV, YOLO, SAM
+- **NLP & LLM systems:** RAG, embeddings, reranking, Qwen, Whisper, BART, FLAN-T5, NLTK
+- **Engineering:** Python, Java, TypeScript, JavaScript, React, FastAPI, Flask, Django, Docker
+- **Data & cloud:** SQL, PostgreSQL, MySQL, MongoDB, Pandas, NumPy, Power BI, AWS, Google Colab
+- **Workflow:** Git, GitHub, GitLab, testing, evaluation, reproducible experiments
 
-### 🚀 Featured Projects
+## Education
 
-#### 🛰️ [Crater & Boulder Detection (YOLOv8 + SAM)](https://github.com/siddhi1703/Crater-Detection-Project)
-Real-time object detection and segmentation of lunar craters using satellite imagery (Chandrayaan-2 OHRC).  
-**Tech Stack:** Python, PyTorch, OpenCV, YOLOv8, SAM
+- **Northeastern University** - M.S. in Artificial Intelligence, GPA: 4.0/4.0, expected May 2028
+- **Pune University** - B.E. in Artificial Intelligence and Data Science, GPA: 3.7/4.0, 2025
 
-#### 🧠 [Research Paper Summarizer (T5)](https://github.com/siddhi1703/Summarize_project)
-Summarizes complex scientific documents using fine-tuned T5 transformers on PubMed data.  
-**Tech Stack:** PyTorch, Hugging Face, Google Colab
+## Let's connect
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhi1703&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhi1703&layout=compact&theme=tokyonight" width="47%" />
-</p>
-
----
-
-### 🏅 Certifications
-
-- 🎓 Python – HackerRank  
-- 📊 SQL – HackerRank  
-- 🤖 Machine Learning with Python  
-- 🧠 Artificial Intelligence – AICTE
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/siddhi-kakani-133124288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/siddhi1703" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+I enjoy collaborating on trustworthy AI, applied NLP, multimodal systems, and computer-vision research. Reach me on [LinkedIn](https://www.linkedin.com/in/siddhi-kakani-133124288/) or at [siddhikakani4@gmail.com](mailto:siddhikakani4@gmail.com).
