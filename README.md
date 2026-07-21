@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="Siddhi Kakani - AI researcher and engineer" width="100%" />
+  <img src="<img width="1200" height="360" alt="profile-banner" src="https://github.com/user-attachments/assets/bb62ee8a-dcaa-4fcb-ad9a-90c9b7a4acd6" />
+" alt="Siddhi Kakani - AI researcher and engineer" width="100%" />
 </p>
 
 <p align="center">
