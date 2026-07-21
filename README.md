@@ -1,6 +1,8 @@
-<p align="center">
-  <img profile-banner.png />
-</p>
+<h1 align="center">Hi 👋, I'm Siddhi Kakani</h1>
+
+<h3 align="center">AI Researcher & Engineer · NLP · RAG · Computer Vision</h3>
+
+<p align="center"><b>Building AI that can show its evidence.</b></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
